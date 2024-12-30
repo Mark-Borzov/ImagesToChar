@@ -1,7 +1,7 @@
-package controller;
+package src.controller;
 
-import model.Model;
-import view.View;
+import src.model.Model;
+import src.view.View;
 
 import java.io.File;
 import java.util.InputMismatchException;

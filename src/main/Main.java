@@ -1,8 +1,8 @@
-package main;
+package src.main;
 
-import controller.Controller;
-import model.Model;
-import view.View;
+import src.controller.Controller;
+import src.model.Model;
+import src.view.View;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 import com.diogonunes.jcolor.Attribute;
 
